@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"._7wMrLzzgpxGDGF7NL_Bcv {\\n    background-color: red;\\n    color: blue;\\n    display: flex;\\n    flex-direction: column;\\n    flex-wrap: wrap;\\n    justify-content: center;\\n    margin: 10vh auto;\\n    width: 80vw;\\n}\\n\", \"\"]);\n\n// exports\nexports.locals = {\n\t\"todoApp\": \"_7wMrLzzgpxGDGF7NL_Bcv\"\n};\n\n//# sourceURL=webpack:///./src/styles/app.css?./node_modules/css-loader??ref--5-1");
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"._2TsUI2tj4v7_WHuj0R7x7 {\\n    background-color: red;\\n    color: blue;\\n    display: flex;\\n    flex-direction: column;\\n    flex-wrap: wrap;\\n    justify-content: center;\\n    margin: 10vh auto;\\n    width: 80vw;\\n}\\n\", \"\"]);\n\n// exports\nexports.locals = {\n\t\"todoApp\": \"_2TsUI2tj4v7_WHuj0R7x7\"\n};\n\n//# sourceURL=webpack:///./src/styles/app.css?./node_modules/css-loader??ref--5-1");
 
 /***/ }),
 
