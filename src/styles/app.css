@@ -1,0 +1,10 @@
+.todoApp {
+    background-color: red;
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10vh auto;
+    width: 80vw;
+}
